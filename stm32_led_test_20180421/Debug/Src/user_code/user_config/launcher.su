@@ -1,0 +1,3 @@
+launcher.c:5:6:init	8	static
+launcher.c:12:6:loop	8	static
+launcher.c:19:6:launch	8	static

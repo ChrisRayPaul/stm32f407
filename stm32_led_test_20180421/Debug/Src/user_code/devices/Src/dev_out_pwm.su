@@ -1,0 +1,2 @@
+dev_out_pwm.c:24:10:dev_out_pwm_set_period	56	static
+dev_out_pwm.c:71:10:dev_out_pwm_set_pulse	40	static

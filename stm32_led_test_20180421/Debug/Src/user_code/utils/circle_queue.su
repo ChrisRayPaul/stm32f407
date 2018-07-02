@@ -1,0 +1,5 @@
+circle_queue.c:7:14:queue_create	24	static
+circle_queue.c:21:6:queue_free	16	static
+circle_queue.c:32:5:queue_push	8	static
+circle_queue.c:47:5:queue_pop	8	static
+circle_queue.c:62:7:queue_peek	0	static
